@@ -1,1 +1,1 @@
-# Making an atm program 
+# An ATM program written in c++
